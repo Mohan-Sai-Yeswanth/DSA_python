@@ -1,0 +1,62 @@
+Sorting Algorithms:-
+
+Actually sorting algorithms are 2 types:-
+
+1. Comparison based:-
+
+In this we will compare the value in the list or array.
+
+ex:- 1. Bubble sort
+  
+     2. Insertion sort
+
+     3. selection sort
+
+     4. Quick sort -----
+                      |------  are works under divide and conquer
+     5. Merge sort -----
+
+     6. Heap sort
+
+2. Non - comparison based:-
+
+In this they won't compare the element in the array or list.
+
+ex:- 1. Count sort
+
+     2. Radix Sort
+
+     3. Bucket Sort
+
+Also wE have two sorting algorithms:-
+
+1. stable sort:- Relative order should be maintained after sorting algorithms.
+
+ex:- dictionary contains
+
+      d ={(4,2),(5,7),(4,3),(6,8)}
+after applying some sorting algorithm's.
+
+we should get {(4,2),(4,3),(5,7),(6,8)}
+
+2. unstable sort:- vice versa for stable sort
+
+we should get 
+
+{(4,3),(4,2),(5,7),(6,8)}
+
+
+In place and outplace sorting algorithms
+
+In place:- We don't use any extra place to sort an array.
+
+out place:- We will use extra place to sort an array.
+
+ex:- Merge sort  (application of d&c)
+
+
+Bubble sort 
+
+It will work on the iterations and passes
+
+time complexity is o(n^2)
